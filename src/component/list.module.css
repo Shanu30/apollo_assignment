@@ -1,0 +1,46 @@
+.list{
+    width: 80%;
+    margin: 50px auto;
+    padding-left: 10%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    column-gap: 20px;
+    /* border: 1px solid red; */
+}
+.card{
+    width: 25%;
+    /* border: 1px solid red; */
+    padding: 20px;
+    box-shadow: 3px 3px 6px;
+    border-radius: 5px;
+}
+.card div {
+    width: 80%;
+    margin: auto;
+    /* border: 1px solid red; */
+}
+.click{
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+    column-gap: 20px;
+    /* border: 1px solid red; */
+}
+.apo{
+    width: 500%;
+    height: 40px;
+    font-size: 20px;
+    background-color: rgb(190, 236, 248);
+    border: 1px solid rgb(190, 236, 248);
+    border-radius: 3px;
+}
+.det{
+    width: 500%;
+    height: 40px;
+    font-size: 20px;
+    background-color: rgb(190, 236, 248);
+    border-radius: 3px;
+    border: 1px solid rgb(190, 236, 248);
+}

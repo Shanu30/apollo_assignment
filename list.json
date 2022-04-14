@@ -1,0 +1,116 @@
+{
+  "data": [
+    {
+      "name": "Dr. Norbie",
+      "department": "genetics",
+      "Fee": 800
+    },
+    {
+      "name": "Dr. Edee",
+      "department": "organ transplant",
+      "Fee": 200
+    },
+    {
+      "name": "Dr. Aguie",
+      "department": "pathology",
+      "Fee": 500
+    },
+    {
+      "name": "Dr. Heywood",
+      "department": "general",
+      "Fee": 400
+    },
+    {
+      "name": "Dr. Sibella",
+      "department": "genetics",
+      "Fee": 300
+    },
+    {
+      "name": "Dr. Elwira",
+      "department": "genetics",
+      "Fee": 700
+    },
+    {
+      "name": "Dr. Valery",
+      "department": "genetics",
+      "Fee": 900
+    },
+    {
+      "name": "Dr. Grannie",
+      "department": "genetics",
+      "Fee": 300
+    },
+    {
+      "name": "Dr. Roarke",
+      "department": "urology",
+      "Fee": 900
+    },
+    {
+      "name": "Dr. Eziechiele",
+      "department": "surgery",
+      "Fee": 200
+    },
+    {
+      "name": "Dr. Lona",
+      "department": "oncology",
+      "Fee": 1200
+    },
+    {
+      "name": "Dr. Libbey",
+      "department": "physiology",
+      "Fee": 2000
+    },
+    {
+      "name": "Dr. Henrietta",
+      "department": "cardiology",
+      "Fee": 1500
+    },
+    {
+      "name": "Dr. Ryun",
+      "department": "medicine",
+      "Fee": 400
+    },
+    {
+      "name": "Dr. Koenraad",
+      "department": "radiology",
+      "Fee": 600
+    },
+    {
+      "name": "Dr. Godfry",
+      "department": "immunology",
+      "Fee": 300
+    },
+    {
+      "name": "Dr. Simmonds",
+      "department": "pulmonology",
+      "Fee": 900
+    },
+    {
+      "name": "Dr. Gungroo",
+      "department": "hematology",
+      "Fee": 700
+    },
+    {
+      "name": "Dr. Erma",
+      "department": "gynaecology",
+      "Fee": 600
+    },
+    {
+      "name": "Dr. Gualterio",
+      "department": "neuro",
+      "Fee": 500
+    },
+    {
+      "name": "Dr. Gulati",
+      "department": "neuro",
+      "Fee": 500
+    }
+  ],
+  "booking": [
+    {
+      "name": "sdfg",
+      "mobile": "1234567",
+      "id": 1
+    }
+  ]
+}
